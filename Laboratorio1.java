@@ -71,7 +71,7 @@ public class Laboratorio1 {
         // TODO 1: Instancia un nuevo objeto llamado 'auto2' de la clase Auto.
         // TODO 2: Asigna valores a sus atributos (marca, modelo y precioAlquiler).
         // TODO 3: Llama al método mostrarDatos() para el objeto 'auto2'.
-    }
+    
    
 }
  // Objeto de prueba
