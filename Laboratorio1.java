@@ -80,3 +80,4 @@ public class Laboratorio1 {
         auto2.precioAlquiler = 28.0;
         auto2.mostrarDatos();
     }
+}
