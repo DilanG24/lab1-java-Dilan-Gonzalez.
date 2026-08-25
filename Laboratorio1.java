@@ -72,10 +72,11 @@ public class Laboratorio1 {
         // TODO 2: Asigna valores a sus atributos (marca, modelo y precioAlquiler).
         // TODO 3: Llama al método mostrarDatos() para el objeto 'auto2'.
     }
-    // Objeto de prueba
+   
+}
+ // Objeto de prueba
         Auto auto2 = new Auto();
         auto2.marca = "Nissan";
         auto2.modelo = "Versa";
         auto2.precioAlquiler = 28.0;
         auto2.mostrarDatos();
-}
